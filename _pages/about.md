@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+Benim sitem
  About Me 
 ======
 My name is Ahmet. I graduated from ASO Technical College Departmant of Industrial Automation Technologies. I took basic mechatronics training there. Now, I am studying Computer Engineering at Gazi University, and also working as a researcher in BILDAM. I am interested in cyber security and python programming.  
