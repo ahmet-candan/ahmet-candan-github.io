@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: " Teknik Yazılar"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Siber Güvenlik Haberleri"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Fotoğraflar ve Blog"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+   # url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: ""
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Github"
     url: /markdown/
